@@ -1,0 +1,4 @@
+﻿  SceneManager.cpp
+e:\sourcecode\aladin_grid_ani\aladin\gameobject.h(68): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\sourcecode\aladin_grid_ani\aladin\gameobject.h(69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Aladin.vcxproj -> E:\SourceCode\Aladin_Grid_Ani\Debug\Aladin.exe
