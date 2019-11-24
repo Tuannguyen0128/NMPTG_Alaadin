@@ -1,0 +1,20 @@
+Map1
+5
+1 1 0 20 500 33 
+2 1 500 20 500 33 
+3 1 1000 20 500 33
+4 1 1500 20 500 33 
+5 1 2000 20 240 33
+
+chu y ket thuc moi dong phai co 1 dau cach
+// id loai | x y w h
+
+
+
+
+
+
+
+
+// id loai direction | x y w h model
+//Loai 1: ground

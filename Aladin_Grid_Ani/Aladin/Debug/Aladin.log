@@ -1,0 +1,6 @@
+﻿  Aladin.cpp
+e:\sourcecode\aladin_grid_ani\aladin\gameobject.h(68): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\sourcecode\aladin_grid_ani\aladin\gameobject.h(69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\sourcecode\aladin_grid_ani\aladin\aladin.cpp(12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\sourcecode\aladin_grid_ani\aladin\aladin.cpp(28): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  Aladin.vcxproj -> E:\SourceCode\Aladin_Grid_Ani\Debug\Aladin.exe
